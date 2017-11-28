@@ -1,0 +1,40 @@
+
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.menuText {
+  font-family: 'Lato bold', sans-serif;
+  text-decoration-line: none;
+  color: white;
+  font-size: 25px;
+  margin: 10px;
+  top: 300px;
+  position: relative;
+  text-shadow: 2px 2px rgba(0,0,0, 0.2);
+}
+
+.menuText:hover {
+	opacity: 0.8;
+}
+
+.return {
+	position: relative;
+	color: gray;
+	height: 35px;
+	width: 100px;
+	top: 330px;
+	left: 630px;
+
+}
+.returnBTN {
+	text-decoration-line: none;
+	font-family: 'Lato', sans-serif;
+	top:20px;
+	color: white;
+}
+
+.returnBTN:hover {
+	opacity: 0.8;
+}
